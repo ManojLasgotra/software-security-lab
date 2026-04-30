@@ -133,6 +133,6 @@ Implementing the recommended security controls will significantly improve the ap
 
 **9. Prepared By:**
 
-Anshuman Raj Singh
+Manoj Lasgotra
 Security Analyst
 (For academic/assessment or internal review use)
