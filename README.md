@@ -56,4 +56,5 @@ Methodologies: STRIDE Threat Modeling, Static Code Analysis
 Disclaimer:
 The content of this repository is for educational and ethical security research purposes only. Unauthorized access to or testing of computer systems is strictly prohibited and illegal.
 
-Author: ANSHUMAN RAJ SINGH
+Author: Manoj Lasgotra
+
